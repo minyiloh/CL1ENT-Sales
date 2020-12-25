@@ -1,4 +1,4 @@
-# CL1ENT-Sales
+# CL1ENT Sales Tracker
 
 Group project of 8 members for subject TSE2231 Software Engineering Fundamentals. 
 
